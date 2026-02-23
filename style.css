@@ -62,8 +62,8 @@ html, body {
   align-items: center;
   justify-content: center;
   color: #fff;
-  font-size: 10vmin;
-  font-family: "Montserrat Black", sans-serif;
+  font-size: 5vmin;
+  font-family: "Montserrat", sans-serif;
   transform: translate(-50%, -50%);
 }
 
